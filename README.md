@@ -37,3 +37,51 @@ Github主页：https://github.com/google/mediapipe
 ## 参考文献
 
 ![image-20221005125703710](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005125703710.png)
+
+## Web Demo
+
+Link： https://codepen.io/tommyzihao/pen/dyWEjBN
+
+# Pose
+
+## 潜在应用
+
+![image-20221005182153808](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005182153808.png)
+
+## 33个关键点
+
+![image-20221005181805887](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005181805887.png)
+
+## 其他开源项目
+
+### OpenPose
+
+![image-20221005182605230](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005182605230.png)
+
+中文文档： https://www.jianshu.com/p/3aa810b35a5d
+
+### DeepCut
+
+![image-20221005182856790](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005182856790.png)
+
+### AlphaPose
+
+![image-20221005182927758](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005182927758.png)
+
+### HRNet
+
+![image-20221005183105820](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005183105820.png)
+
+## BlazePose
+
+![image-20221005183208909](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005183208909.png)
+
+![image-20221005183523893](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005183523893.png)
+
+## 参考文献
+
+![image-20221005203342489](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/img/image-20221005203342489.png)
+
+## Web Demo
+
+Link： https://codepen.io/tommyzihao/pen/KKqNMwg
