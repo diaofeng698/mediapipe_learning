@@ -85,3 +85,19 @@ Link： https://codepen.io/tommyzihao/pen/dyWEjBN
 ## Web Demo
 
 Link： https://codepen.io/tommyzihao/pen/KKqNMwg
+
+# Face Mesh
+
+## 468个关键点
+
+![canonical_face_model_uv_visualization](/home/fdiao/demo_dms/mediapipe_ws/mediapipe_learning/face_mesh/canonical_face_model_uv_visualization.png)
+
+## 模型
+
+![image-20221006131501996](/home/fdiao/.config/Typora/typora-user-images/image-20221006131501996.png)
+
+![image-20221006131524317](/home/fdiao/.config/Typora/typora-user-images/image-20221006131524317.png)![image-20221006131555150](/home/fdiao/.config/Typora/typora-user-images/image-20221006131555150.png)
+
+## Web Demo
+
+Link：https://codepen.io/tommyzihao/pen/dyWEjBN
