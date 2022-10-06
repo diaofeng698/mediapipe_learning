@@ -40,7 +40,7 @@ Github主页：https://github.com/google/mediapipe
 
 ## Web Demo
 
-Link： https://codepen.io/tommyzihao/pen/dyWEjBN
+Link： https://codepen.io/tommyzihao/pen/ZEKpQxR
 
 # Pose
 
@@ -98,6 +98,16 @@ Link： https://codepen.io/tommyzihao/pen/KKqNMwg
 
 ![image-20221006131524317](/home/fdiao/.config/Typora/typora-user-images/image-20221006131524317.png)![image-20221006131555150](/home/fdiao/.config/Typora/typora-user-images/image-20221006131555150.png)
 
+## 参考文献
+
+![image-20221006132849762](/home/fdiao/.config/Typora/typora-user-images/image-20221006132849762.png)
+
 ## Web Demo
 
-Link：https://codepen.io/tommyzihao/pen/dyWEjBN
+Link： https://codepen.io/tommyzihao/pen/dyWEjBN
+
+# Face Detection
+
+## Web Demo
+
+Link： https://codepen.io/tommyzihao/pen/jOGNoEZ
